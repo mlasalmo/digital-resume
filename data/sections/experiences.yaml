@@ -20,7 +20,7 @@ experiences:
     start: Jun 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
-    # give some points about what was your responsibilities at the company
+    # give some points about what are your responsibilities at the company
     responsibilities:
     - Migrate services from EC2 to Kubernetes
     - Design and develop tools for deploying to Kubernetes (Helm charts)
@@ -37,7 +37,7 @@ experiences:
       Today, Typeform works on the future of online forms. Powering your brand’s interactions with beautifully designed, professional-looking online forms that people just love. Create forms, surveys, quizzes (and so much more) to grow your audience, improve just about anything, and validate (or invalidate) your best ideas."
   positions:
   - designation: Senior Software Engineer
-    start: March 2018
+    start: Jan 2019
     end: Jun 2019
     responsibilities:
     - Migration to Kubernetes
@@ -52,7 +52,7 @@ experiences:
   positions:
   - designation: Senior System Administrator
     start: Jun 2018
-    end: Jan 2019
+    end: Dec 2018
     responsibilities:
     - Create and maintain resources and modules with Terraform (IaC)
     - Create and maintain shared library for Jenkins CI (Groovy)
