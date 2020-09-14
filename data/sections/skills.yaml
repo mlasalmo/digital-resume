@@ -10,7 +10,7 @@ section:
 skills:
 - name: Kubernetes
   icon: "images/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes and installing and configuring as well."
+  summary: "Capable of deploying, managing application on Kubernetes and installing, configuring and upgrading the cluster as well."
   url: "https://kubernetes.io/"
 
 - name: Go Development
