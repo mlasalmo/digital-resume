@@ -16,7 +16,7 @@ experiences:
       Recently named one of Europe's "Hottest Startups"​ by Wired, letgo's recently been featured by The New York Times, The Wall Street Journal, Fast Company, Fortune, Bloomberg, TechCrunch and others.
 
   positions:
-  - designation: Senior Software Engineer
+  - designation: Site Reliability Engineer
     start: Jun 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
@@ -36,7 +36,7 @@ experiences:
     overview: "Founded circa 2012 in Barcelona, Typeform was founded by two designers: David Okuniev and Robert Muñoz.
       Today, Typeform works on the future of online forms. Powering your brand’s interactions with beautifully designed, professional-looking online forms that people just love. Create forms, surveys, quizzes (and so much more) to grow your audience, improve just about anything, and validate (or invalidate) your best ideas."
   positions:
-  - designation: Senior Software Engineer
+  - designation: Senior DevOps Engineer
     start: Jan 2019
     end: Jun 2019
     responsibilities:
