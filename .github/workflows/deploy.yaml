@@ -4,7 +4,7 @@ name: deploy
 on:
   push:
     branches:
-    - master
+    - main
 
 jobs:
   build:
@@ -15,7 +15,7 @@ jobs:
       uses: reuixiy/hugo-deploy@v1
       env:
         DEPLOY_REPO: mlasalmo/mlasalmo.github.io
-        DEPLOY_BRANCH: master
+        DEPLOY_BRANCH: main
         DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
         # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
         TZ: Europe/Madrid
